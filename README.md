@@ -8,7 +8,6 @@ getgenv().AutoRandomFruit = false
 getgenv().SelectedWeapon = "Melee"
 getgenv().FarmAboveValue = 16
 getgenv().AutoStorageFruitEnabled = false
-getgenv().AutoSaveEnabled = false
 getgenv().AutoDessrosaEnabled = false
 getgenv().autoGetEnabled = false
 getgenv().GettingFruitForAuto = false
